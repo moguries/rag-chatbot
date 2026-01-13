@@ -36,7 +36,7 @@ The pipeline is as follows:
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/3dc040f3-b0a8-481b-aa0b-5d5cbe1665f0
 
 ## Why Retrieval-Augmented Generation (RAG)?
 
