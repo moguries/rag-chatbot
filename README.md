@@ -47,3 +47,16 @@ This technique is widely used in powering Internal Knowledge Assistants like Rob
 ## Future Improvements
 - Metadata filtering (eg. by department / policy type)
 - Semantic caching for similar user queries (skip RAG pipeline and provide cached response)
+
+## Acknowledgements & References
+This project was built by learning from many amazing resources. Endless gratitude to:
+
+**Youtube Tutorials**
+- [codebasics - Gen AI Project Using Llama3.1 | End to End Gen AI Project](https://youtu.be/CO4E_9V6li0?si=j_aedxsSdcKpD6sn)
+- [Greg Kamradt - LangChain101: Connect Google Drive Files To OpenAI](https://youtu.be/IqqHqDcXLww?si=9jTLoqbw38jG9fSB)
+
+**Open Source Projects**
+- [umbertogriffo - rag-chatbot](https://github.com/umbertogriffo/rag-chatbot.git)
+
+**Documentation**
+- [LangChain](https://docs.langchain.com/)
