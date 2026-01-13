@@ -30,7 +30,7 @@ print(f"Split documents into {len(chunks)} chunks")
 # vectors preserve semantic meaning: similar meaning = closer vectors (cosine similarity)
 embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
 
-# store in vector DB (vector -> text chunk -> metadata) so internal docs are queryable by semantics
+# store in vector DB so internal docs are queryable by semantics
 vectorstore = Chroma.from_documents(
     documents=chunks,
     embedding=embeddings,
