@@ -60,3 +60,5 @@ This project was built by learning from many amazing resources. Endless gratitud
 
 **Documentation**
 - [LangChain](https://docs.langchain.com/)
+
+Built by me in Jan 2026 :)
